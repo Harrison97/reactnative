@@ -1,0 +1,7 @@
+{
+    "parser": "eslint",
+    "extends": "rallycoding",
+    "rules": {
+        "arrow-body-style": 0
+    }
+}
