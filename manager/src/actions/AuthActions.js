@@ -8,6 +8,7 @@ import { EMAIL_CHANGED,
     LOGIN_USER
 } from './types';
 
+//both actions below have different syntax but same functionality
 export const emailChanged = (text) => ({
         type: EMAIL_CHANGED,
         payload: text
